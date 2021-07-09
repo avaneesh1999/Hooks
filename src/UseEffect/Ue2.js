@@ -7,7 +7,7 @@ import React,{useState,useEffect} from 'react'
 export default function Ue2() {
     useEffect(() => {
        console.log("USEEFFECT");
-       document.title='${count}';
+       document.title=`${count}`;
        },[]);
 
     console.log('RENDER');   

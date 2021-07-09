@@ -4,7 +4,9 @@
 //import Us from "./UseState/Us";
 //import Counter from "./UseState/Counter";
 //import Ue1 from "./UseEffect/Ue1";
-import Us3 from "./UseEffect/Us3";
+// import Us3 from "./UseEffect/Us3";
+//import CleanUp from "./UseEffect/CleanUp";
+import CleanUp2 from "./UseEffect/CleanUp2";
 
 function App() {
   return (
@@ -15,7 +17,9 @@ function App() {
     {/* <Profile/> */}
     {/* <Us/> */}
     {/* <Counter/> */}
-    <Us3/>
+    {/* <Us3/> */}
+    {/* <CleanUp/> */}
+    <CleanUp2/>
     </>
     
   );

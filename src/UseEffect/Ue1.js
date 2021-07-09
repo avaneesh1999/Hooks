@@ -11,7 +11,7 @@ export default function Ue1() {
   //state only made once in HOOKS
   useEffect(() => {
     console.log("UseEffect");
-    document.title='Clicked ${count} times';
+    document.title=`Clicked ${count} times`;
     
   })
   console.log('RENDER');
