@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useContext} from 'react';
 import MyContext from './Context';
 
 
@@ -13,4 +13,4 @@ export default function DemoChild() {
     )
 }
 
-export default DemoChild
+

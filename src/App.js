@@ -6,7 +6,8 @@
 //import Ue1 from "./UseEffect/Ue1";
 // import Us3 from "./UseEffect/Us3";
 //import CleanUp from "./UseEffect/CleanUp";
-import CleanUp2 from "./UseEffect/CleanUp2";
+//import CleanUp2 from "./UseEffect/CleanUp2";
+import Main from "./Context/Main";
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
     {/* <Counter/> */}
     {/* <Us3/> */}
     {/* <CleanUp/> */}
-    <CleanUp2/>
+    {/* <CleanUp2/> */}
+    <Main/>
     </>
     
   );
