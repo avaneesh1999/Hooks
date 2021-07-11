@@ -1,4 +1,4 @@
-# Hooks,Context API,Firebase aree explained with examples and Tests.
+# Hooks,Context API,Firebase are explained with examples and Tests.
 <!-- 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
